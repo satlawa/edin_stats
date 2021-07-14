@@ -1,2 +1,2 @@
 # edin_stats
-statistics about study area
+statistics about the study area of the thinning detection study
